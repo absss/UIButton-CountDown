@@ -1,9 +1,9 @@
 //
 //  UIButton+CountDown.m
-//  GreateGasSeller
+//  Demo
 //
-//  Created by hehaichi on 16/7/18.
-//  Copyright © 2016年 HaoMaiQi. All rights reserved.
+//  Created by hehaichi on 18/5/11.
+//  Copyright © 2018年 hehaichi. All rights reserved.
 //
 
 #import "UIButton+CountDown.h"
