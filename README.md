@@ -1,5 +1,5 @@
 # UIButton-CountDown
-一个点击按钮开始计时的UIButton的类目
+一个点击按钮开始计时的UIButton的类目，考虑到了程序退到后台之后的时间流逝
 ## 如何使用？
 ```
 [button startToCountDown];
