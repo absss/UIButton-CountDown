@@ -23,4 +23,4 @@ UIButton类目，无需写过多代码解决点击获取验证码问题，考虑
 ```
 
 效果图如下：
-[alt 效果图](https://github.com/absss/UIButton-CountDown/blob/master/demo2.gif)
+![alt 效果图](https://github.com/absss/UIButton-CountDown/blob/master/demo2.gif)
