@@ -1,5 +1,5 @@
 # UIButton-CountDown
-一个点击按钮开始计时的UIButton的类目，考虑到了程序退到后台之后，Timer不在生效的时间差，觉得不错的给个star
+UIButton类目，无需写过多代码解决点击获取验证码问题，考虑到了程序退到后台之后，Timer不在生效的时间差，觉得不错的给个star
 ## 如何使用？
 ```
 [button startToCountDown];
@@ -22,3 +22,5 @@
 - (void)startToCountDown;
 ```
 
+效果图如下：
+[alt 效果图](https://github.com/absss/UIButton-CountDown/blob/master/demo2.gif)
